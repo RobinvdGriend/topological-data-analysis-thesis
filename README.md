@@ -1,6 +1,6 @@
-#Bachelor's Thesis on Topological Data Analysis
+# Bachelor's Thesis on Topological Data Analysis
 
-##Abstract
+## Abstract
 Topological data analysis is a novel field of mathematics in which
 topology is applied to problems in data analysis. In this paper we will
 study a particular tool from topological data analysis called *peristent
